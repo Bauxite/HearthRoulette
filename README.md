@@ -45,6 +45,8 @@ The random selection will be made from one of the following toys:
 - [The Innkeeper's Daughter](https://www.wowhead.com/item=64488/the-innkeepers-daughter)
 - [Timewalker's Hearthstone](https://www.wowhead.com/item=193588/timewalkers-hearthstone)
 - [Tome of Town Portal](https://www.wowhead.com/item=142542/tome-of-town-portal)
+- [P.O.S.T. Master's Express Hearthstone](https://www.wowhead.com/item=245970/p-o-s-t-masters-express-hearthstone)
+- [Cosmic Hearthstone](https://www.wowhead.com/item=246565/cosmic-hearthstone)
 
 ### Covenant Toys
 
